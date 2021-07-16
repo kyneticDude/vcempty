@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/article</content-type>
+	<display-template>/templates/web/pages/article.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>a639</objectGroupId>
+	<objectId>a639951c-01da-bab1-839a-c05a28f7decc</objectId>
+	<disabled>false</disabled>
+	<internal-name>Managing your finances as a couple</internal-name>
+	<title_s>Managing your finances as a couple</title_s>
+	<imageAlt_s>Young couple planning their finances.</imageAlt_s>
+	<image_url_s>https://www.velocityclub.co.za/images/young-couple-planning-their-finances.jpg</image_url_s>
+	<post_id_s/>
+	<categories_o>	<item>	<key>expert-opinions</key>
+	<value_smv>Expert Opinions</value_smv>
+	</item></categories_o>
+	<file-name>index.xml</file-name>
+	<folder-name>managing-your-finances-as-a-couple</folder-name>
+	<postSection_o item-list="true">	<item datasource="sections" inline="true">	<key>bbe3e026-8658-3327-aab7-668fc8ba0610</key>
+	<value>Intro</value>
+<component id="bbe3e026-8658-3327-aab7-668fc8ba0610">
+	<content-type>/component/component-articlesection</content-type>
+	<display-template>/templates/web/components/article-section.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>bbe3</objectGroupId>
+	<objectId>bbe3e026-8658-3327-aab7-668fc8ba0610</objectId>
+	<internal-name>Intro</internal-name>
+	<file-name>bbe3e026-8658-3327-aab7-668fc8ba0610.xml</file-name>
+	<sectionContent_html>&lt;section class="container"&gt;
+&lt;div class="wide--layout"&gt;
+&lt;div class="grid flex-grid grid-inner__article no-margin-top"&gt;
+&lt;div class="grid__cell"&gt;
+&lt;p&gt;I have a question for you:&lt;/p&gt;
+&lt;p&gt;What do the following three things have in common?&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Realising that we&amp;rsquo;re out of milk just as you sit down to eat your cereal.&lt;/li&gt;
+&lt;li&gt;The devastation of getting dumped by your first love in high school.&lt;/li&gt;
+&lt;li&gt;Becoming disabled, or dying, without having insurance in place.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;If you answered, &amp;lsquo;They&amp;rsquo;re all things we didn&amp;rsquo;t plan for&amp;rsquo; then you&amp;rsquo;d be right. Although to be fair, if you&amp;rsquo;d answered &amp;lsquo;they all suck&amp;rsquo; then I&amp;rsquo;ll admit you were right about that one too.&lt;/p&gt;
+&lt;p&gt;Death and disability insurance is one of those things that we hate thinking about and so it becomes something that many of us don&amp;rsquo;t plan correctly for, or don&amp;rsquo;t plan for at all. This is especially problematic if you&amp;rsquo;re married or in a long-term relationship.&lt;/p&gt;
+&lt;p&gt;Time to change that.&lt;/p&gt;
+&lt;p&gt;Today, we&amp;rsquo;re talking about life and disability insurance planning for young couples. If you love your partner and want to ensure that both of you are taken care of if the worst happens - as I&amp;rsquo;m sure you do - then this is one that we all need to pay attention to.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;</sectionContent_html>
+	<createdDate>2021-07-14T15:17:09.418Z</createdDate>
+	<createdDate_dt>2021-07-14T15:17:09.418Z</createdDate_dt>
+	<lastModifiedDate>2021-07-14T16:17:17.699Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-07-14T16:17:17.699Z</lastModifiedDate_dt>
+	<sectionClass_s>no-margin-top</sectionClass_s>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>01503b58-5bfc-a2cf-85e9-cb273a5a3249</key>
+	<value>Yellow call-out</value>
+<component id="01503b58-5bfc-a2cf-85e9-cb273a5a3249">
+	<content-type>/component/component-calloutcolor</content-type>
+	<display-template>/templates/web/components/call-out-color.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>0150</objectGroupId>
+	<objectId>01503b58-5bfc-a2cf-85e9-cb273a5a3249</objectId>
+	<internal-name>Yellow call-out</internal-name>
+	<bg_color_s>bg--yellow</bg_color_s>
+	<file-name>01503b58-5bfc-a2cf-85e9-cb273a5a3249.xml</file-name>
+	<call_out_content_html>&lt;h2 class="title--md no-margin-top"&gt;With that in mind, we&amp;rsquo;re going to look at the three things you need to know about disability and life insurance planning for yourself and your partner.&lt;/h2&gt;</call_out_content_html>
+	<createdDate>2021-07-14T15:19:00.512Z</createdDate>
+	<createdDate_dt>2021-07-14T15:19:00.512Z</createdDate_dt>
+	<lastModifiedDate>2021-07-14T15:19:00.512Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-07-14T15:19:00.512Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>fece370e-cc24-2d79-395f-a1cb632e99ae</key>
+	<value>Sec 1</value>
+<component id="fece370e-cc24-2d79-395f-a1cb632e99ae">
+	<content-type>/component/component-articlesection</content-type>
+	<display-template>/templates/web/components/article-section.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>fece</objectGroupId>
+	<objectId>fece370e-cc24-2d79-395f-a1cb632e99ae</objectId>
+	<file-name>fece370e-cc24-2d79-395f-a1cb632e99ae.xml</file-name>
+	<internal-name>Sec 1</internal-name>
+	<sectionContent_html>&lt;section class="container"&gt;
+&lt;div class="wide--layout"&gt;
+&lt;div class="grid flex-grid grid-inner__article no-margin-bottom"&gt;
+&lt;div class="grid__cell"&gt;
+&lt;h2 class="text--md"&gt;1. Discuss your finances and establish each others&amp;rsquo; contribution&lt;/h2&gt;
+&lt;p&gt;Start by discussing what your financial needs will look like if one of you becomes disabled - whether by injury or illness - and what will happen if one of you dies.&lt;/p&gt;
+&lt;p&gt;Many of you reading this will be in the earlier stages of life, perhaps enjoying life as newlyweds, or just living in a long-term relationship. Either way, it&amp;rsquo;s likely that both of you are contributing financially to the various commitments the two of you must meet. This may include a home loan, student loans, vehicle finance, insurance costs, medical aid and many others.&lt;/p&gt;
+&lt;p&gt;If one of you is suddenly unable to contribute financially to those commitments, you would need an insurance policy in place to ensure that those commitments continue to be met.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;</sectionContent_html>
+	<createdDate>2021-07-14T15:19:54.961Z</createdDate>
+	<createdDate_dt>2021-07-14T15:19:54.961Z</createdDate_dt>
+	<lastModifiedDate>2021-07-14T16:17:29.831Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-07-14T16:17:29.831Z</lastModifiedDate_dt>
+	<sectionClass_s>no-margin-bottom</sectionClass_s>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>c2a34822-d2d7-b845-ec26-5b9d7ec44834</key>
+	<value>Callout Left</value>
+<component id="c2a34822-d2d7-b845-ec26-5b9d7ec44834">
+	<content-type>/component/component-calloutleft</content-type>
+	<display-template>/templates/web/components/call-out-left.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c2a3</objectGroupId>
+	<objectId>c2a34822-d2d7-b845-ec26-5b9d7ec44834</objectId>
+	<internal-name>Callout Left</internal-name>
+	<file-name>c2a34822-d2d7-b845-ec26-5b9d7ec44834.xml</file-name>
+	<createdDate>2021-07-14T15:20:19.791Z</createdDate>
+	<createdDate_dt>2021-07-14T15:20:19.791Z</createdDate_dt>
+	<lastModifiedDate>2021-07-14T16:37:45.461Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-07-14T16:37:45.461Z</lastModifiedDate_dt>
+	<call_out_content_html>&lt;h2 class="title--md no-margin-top"&gt;For all of these reasons, step one in this process is to discuss the issue of disability and death and its financial consequences with your partner and make sure that you both clearly understand one another&amp;rsquo;s contributions to the &amp;lsquo;household&amp;rsquo; expenses, and what sort of insurance each of you will need to cover the contribution each of you makes.&lt;/h2&gt;</call_out_content_html>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>ea4f2b4b-4696-521e-9522-a9d125aee870</key>
+	<value>Sec 2</value>
+<component id="ea4f2b4b-4696-521e-9522-a9d125aee870">
+	<content-type>/component/component-articlesection</content-type>
+	<display-template>/templates/web/components/article-section.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>ea4f</objectGroupId>
+	<objectId>ea4f2b4b-4696-521e-9522-a9d125aee870</objectId>
+	<file-name>ea4f2b4b-4696-521e-9522-a9d125aee870.xml</file-name>
+	<internal-name>Sec 2</internal-name>
+	<sectionContent_html>&lt;section class="container"&gt;
+&lt;div class="wide--layout"&gt;
+&lt;div class="grid flex-grid grid-inner__article no-margin-top no-margin-bottom"&gt;
+&lt;div class="grid__cell"&gt;
+&lt;h2 class="text--md"&gt;2. Understand the options available to you&lt;/h2&gt;
+&lt;p&gt;Ideally, each of you should consider taking out both an income protection policy, and a life insurance policy. Those are the minimums to ensure that neither you nor your partner is financially crippled if the other is disabled, falls seriously ill, or dies.&lt;/p&gt;
+&lt;p&gt;For a more comprehensive approach to insuring your finances, you may want to consider additionally taking out critical illness cover. These are policies that will cover the related expenses that you will incur following a disability or serious illness. For example, that might include things like medical bills, or shortfalls in medical-aid payouts, or even the cost of lifestyle adjustments.&lt;/p&gt;
+&lt;h2 class="text--md"&gt;3. Implement an insurance plan to suit your lifestyle&lt;/h2&gt;
+&lt;p&gt;As a younger couple, you probably have fewer assets with more expenses and loads of future expenses. For example, you are likely to buy a bigger house when you decide to start a family, or you might decide to spend your money funding more expensive cars or starting a business.&lt;/p&gt;
+&lt;p&gt;Whatever the case may be, you need to choose insurance options that are affordable enough so that you can sustain those premium payments throughout the various phases of life through which you will still travel.&lt;/p&gt;
+&lt;p&gt;For that reason, you should look at structuring your insurance plan in a way that suits your lifestyle and makes it as affordable as possible to continue paying your premiums. Basically, your insurance needs to be implemented with a long-term view so that it serves all your needs for the entire time you need it, whilst being affordable throughout your changing life circumstances and phases.&lt;/p&gt;
+&lt;p&gt;And finally, a note about marriage&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re still planning to get married, you need to understand that in South Africa there are three different marital regimes, or &amp;lsquo;types&amp;rsquo; of marriage and your marriage regime will impact your finances and your insurance. They are:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Marriage in community of property.&lt;/li&gt;
+&lt;li&gt;Marriage out of community of property (without accrual).&lt;/li&gt;
+&lt;li&gt;Marriage out of community of property (with accrual).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;If you just go ahead and get married without signing any marriage contract beforehand, your marriage will be constituted legally under South Africa&amp;rsquo;s default marriage type: a marriage in community of property. This means that, in simple terms, both of you own an equal share of everything in the marriage. And by &amp;lsquo;everything&amp;rsquo;, we mean everything: even debt that your spouse had before you got married - you now share 50/50 in the commitment of repaying the debt.&lt;/p&gt;
+&lt;p&gt;Alternatively, you can choose to be married out of community of property. This will require that both you and your partner enter into an antenuptial contract prior to saying your vows. The details of this marriage regime and the two variations are beyond the scope of this blog, but I&amp;rsquo;ve included it here because the type of marriage regime your union is classified under, will have an impact on your life insurance.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;</sectionContent_html>
+	<createdDate>2021-07-14T15:21:01.116Z</createdDate>
+	<createdDate_dt>2021-07-14T15:21:01.116Z</createdDate_dt>
+	<lastModifiedDate>2021-07-14T16:17:56.785Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-07-14T16:17:56.785Z</lastModifiedDate_dt>
+	<sectionClass_s>no-margin-bottom</sectionClass_s>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>05572a0e-7e5c-1044-840e-df1257babc56</key>
+	<value>Call Out Right</value>
+<component id="05572a0e-7e5c-1044-840e-df1257babc56">
+	<content-type>/component/component-calloutright</content-type>
+	<display-template>/templates/web/components/call-out-right.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>0557</objectGroupId>
+	<objectId>05572a0e-7e5c-1044-840e-df1257babc56</objectId>
+	<file-name>05572a0e-7e5c-1044-840e-df1257babc56.xml</file-name>
+	<internal-name>Call Out Right</internal-name>
+	<createdDate>2021-07-14T15:21:24.688Z</createdDate>
+	<createdDate_dt>2021-07-14T15:21:24.688Z</createdDate_dt>
+	<lastModifiedDate>2021-07-14T16:37:09.687Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-07-14T16:37:09.687Z</lastModifiedDate_dt>
+	<call_out_content_html>&lt;h2 class="title--md no-margin-top"&gt;Regardless of the type of marriage regime that your union is recognised under, for the sake of your insurance, it is vital that both of you get assistance with drafting a last will and testament. This document will detail how each of your assets and liabilities will be dealt with upon your death and it will detail your estate planning in general and how estate duty should be resolved.&lt;/h2&gt;</call_out_content_html>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>4dd3e51e-0517-5770-722f-e1138fda37b1</key>
+	<value>Conclusion</value>
+<component id="4dd3e51e-0517-5770-722f-e1138fda37b1">
+	<content-type>/component/component-articlesection</content-type>
+	<display-template>/templates/web/components/article-section.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>4dd3</objectGroupId>
+	<objectId>4dd3e51e-0517-5770-722f-e1138fda37b1</objectId>
+	<file-name>4dd3e51e-0517-5770-722f-e1138fda37b1.xml</file-name>
+	<internal-name>Conclusion</internal-name>
+	<sectionContent_html>&lt;p&gt;In order to protect the few assets you may have as a young couple, it is recommended that you consider increasing your life cover to provide for the costs of your funeral and any other costs directly relating to your death. This will ensure that your surviving partner won&amp;rsquo;t need to sell off any assets to fund those costs. Much of the planning that you do around your life insurance policy value and your estate planning will revolve around the marriage regime you&amp;rsquo;re married under. That&amp;rsquo;s the reason why you need to understand what the marriage regime options are and consider carefully which one you and your partner will opt for.&lt;/p&gt;
+&lt;h2 class="text--md"&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Life insurance, disability, illness and dread disease cover are all forms of insurance that we least enjoy talking about. Consequently, we don&amp;rsquo;t talk about them and then when these disasters happen, they take us by surprise, leaving lasting financial damage. We want to make sure that you are prepared with insurance cover that will be there for you if the worst happens.&lt;/p&gt;
+&lt;p&gt;In today&amp;rsquo;s blog post, we&amp;rsquo;ve given you a brief look at the world of life and disability cover and how these policies can help you and your partner survive financially when disaster strikes. We learned that we need to start by taking stock of your current financial obligations and the contribution that each partner makes to meeting those obligations. Then, we explained that you may want to opt for additional cover such as dread disease and illness cover to manage any shortfall between your life insurance, and your new ongoing expenses. Third, we stressed the importance of choosing cover that allows you to continue living your life the way you need to so that you can make your insurance payments as long as is required. Finally, we had a quick look at marriage and how it can impact your insurance planning.&lt;/p&gt;
+&lt;p&gt;Phew, that was a lot to take in! If you have any questions (of course you do!) then schedule a call with one of our consultants to discuss your finances and how you can become money smart.&lt;/p&gt;</sectionContent_html>
+	<createdDate>2021-07-14T15:22:03.854Z</createdDate>
+	<createdDate_dt>2021-07-14T15:22:03.854Z</createdDate_dt>
+	<lastModifiedDate>2021-07-14T16:18:17.457Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-07-14T16:18:17.457Z</lastModifiedDate_dt>
+	<sectionClass_s>no-margin-top</sectionClass_s>
+</component>
+	</item></postSection_o>
+	<date_dt>2021-07-01T04:00:00.000Z</date_dt>
+	<createdDate>2021-07-14T15:16:24.525Z</createdDate>
+	<createdDate_dt>2021-07-14T15:16:24.525Z</createdDate_dt>
+	<lastModifiedDate>2021-07-14T16:36:54.010Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-07-14T16:36:54.010Z</lastModifiedDate_dt>
+	<date_dt_tz>EST5EDT</date_dt_tz>
+</page>

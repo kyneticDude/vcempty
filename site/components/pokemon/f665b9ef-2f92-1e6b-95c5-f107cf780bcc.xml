@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-pokemon</content-type>
+	<display-template/>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f665</objectGroupId>
+	<objectId>f665b9ef-2f92-1e6b-95c5-f107cf780bcc</objectId>
+	<desription_t>For some time after its birth, it grows by gaining nourishment from the seed on its back.</desription_t>
+	<file-name>f665b9ef-2f92-1e6b-95c5-f107cf780bcc.xml</file-name>
+	<internal-name>Bulbasaur</internal-name>
+	<title_s>Bulbasaur</title_s>
+	<number_s>#1</number_s>
+	<height_s>0.7m</height_s>
+	<weight_s>6.9kg</weight_s>
+	<attacks_o>	<item>	<key>grass</key>
+	<value>Grass</value>
+	</item>	<item>	<key>poison</key>
+	<value>Poison</value>
+	</item></attacks_o>
+	<createdDate>2021-06-15T08:27:45.224Z</createdDate>
+	<createdDate_dt>2021-06-15T08:27:45.224Z</createdDate_dt>
+	<lastModifiedDate>2021-06-15T08:27:45.224Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-15T08:27:45.224Z</lastModifiedDate_dt>
+</component>

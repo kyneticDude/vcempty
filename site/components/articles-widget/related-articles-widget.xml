@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/articles-widget</content-type>
+	<display-template>/templates/web/components/articles-widget.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f42d</objectGroupId>
+	<objectId>f42d92a4-0929-2e86-57b9-a788cee0c12f</objectId>
+	<internal-name>Related Articles Widget</internal-name>
+	<title_t>Related Articles</title_t>
+	<disabled>false</disabled>
+	<max_articles_i>3</max_articles_i>
+	<file-name>related-articles-widget.xml</file-name>
+	<folder-name/>
+	<scripts_o item-list="true">	<item datasource="scripts">	<key>/scripts/components/related-articles.groovy</key>
+	<value>related-articles.groovy</value>
+	</item></scripts_o>
+	<createdDate>2021-05-06T10:53:12.811Z</createdDate>
+	<createdDate_dt>2021-05-06T10:53:12.811Z</createdDate_dt>
+	<lastModifiedDate>2021-05-06T10:53:12.811Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-05-06T10:53:12.811Z</lastModifiedDate_dt>
+</component>

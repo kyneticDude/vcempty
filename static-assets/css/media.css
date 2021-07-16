@@ -1,0 +1,24 @@
+@media (min-width: 1248px) {
+
+    .grid-inner__2c .grid__cell:nth-of-type(even) {
+        grid-column: 7 / span 6;
+    }
+    .grid-inner__2c .grid__cell:nth-of-type(3),
+    .grid-inner__2c .grid__cell:nth-of-type(5),
+    .grid-inner__2c .grid__cell:nth-of-type(7) {
+        grid-column: 1 / span 6;
+    }
+    .grid-inner__2c .grid__cell:nth-of-type(3),
+    .grid-inner__2c .grid__cell:nth-of-type(4) {
+        grid-row: 2;
+    }
+    .grid-inner__2c .grid__cell:nth-of-type(5),
+    .grid-inner__2c .grid__cell:nth-of-type(6) {
+        grid-row: 3;
+    }
+    .grid-inner__2c .grid__cell:nth-of-type(7),
+    .grid-inner__2c .grid__cell:nth-of-type(8) {
+        grid-row: 4;
+    }
+
+}

@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/page-events-and-webinars</content-type>
+	<display-template>/templates/web/pages/events-page.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>df97</objectGroupId>
+	<objectId>df97f38f-fc86-9a70-11b3-2d75502fde6d</objectId>
+	<internal-name>Events and Webinars</internal-name>
+	<navLabel>Events and Webinars</navLabel>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>events-and-webinars</folder-name>
+	<createdDate>2021-03-31T13:25:46.663Z</createdDate>
+	<createdDate_dt>2021-03-31T13:25:46.663Z</createdDate_dt>
+	<lastModifiedDate>2021-05-07T10:08:34.079Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-05-07T10:08:34.079Z</lastModifiedDate_dt>
+	<title_s>3 steps to financial success with Nicolette Mashile</title_s>
+	<eventName_s>3 steps to financial success with Nicolette Mashil</eventName_s>
+	<url_s>https://event.webinarjam.com/channel/VelocityClub1</url_s>
+	<webinars_o item-list="true">	<item datasource="webinarDS" inline="true">	<key>12496dce-5187-a544-0b78-b36f453fd725</key>
+	<value>Arabile Gumede</value>
+<component id="12496dce-5187-a544-0b78-b36f453fd725">
+	<content-type>/component/component-webinar</content-type>
+	<display-template>/templates/web/components/webinar-component.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>1249</objectGroupId>
+	<objectId>12496dce-5187-a544-0b78-b36f453fd725</objectId>
+	<file-name>12496dce-5187-a544-0b78-b36f453fd725.xml</file-name>
+	<internal-name>Arabile Gumede</internal-name>
+	<imageAlt_s>Arabile Gumede, Financial journalist, reporter, news anchor and writer.</imageAlt_s>
+	<videoUrl_s>https://www.youtube.com/watch?v=1R7NtliTnM4</videoUrl_s>
+	<videoLength_s>1</videoLength_s>
+	<title_s>Don’t work for money, let your money work for you </title_s>
+	<image_s/>
+	<content_html>&lt;div class="card-body"&gt;
+&lt;p class="fw-900 no-margin-bottom"&gt;&lt;strong&gt;Arabile Gumede&lt;/strong&gt;&lt;/p&gt;
+&lt;p class="no-margin-top"&gt;Financial journalist, reporter, news anchor and writer who is passionate about financial literacy.&lt;/p&gt;
+&lt;/div&gt;</content_html>
+	<createdDate>2021-04-07T12:24:48.780Z</createdDate>
+	<createdDate_dt>2021-04-07T12:24:48.780Z</createdDate_dt>
+	<lastModifiedDate>2021-05-07T10:29:10.937Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-05-07T10:29:10.937Z</lastModifiedDate_dt>
+	<date_s>21 October 2020</date_s>
+	<image_url_s>https://d1sdgqff4ryo7u.cloudfront.net/images/arabile-1-2_section-896x580.jpeg</image_url_s>
+</component>
+	</item>	<item datasource="webinarDS" inline="true">	<key>ca41b95e-ecaf-1436-8166-cb330259c0f1</key>
+	<value>Olwethu Leshabane</value>
+<component id="ca41b95e-ecaf-1436-8166-cb330259c0f1">
+	<content-type>/component/component-webinar</content-type>
+	<display-template>/templates/web/components/webinar-component.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>ca41</objectGroupId>
+	<objectId>ca41b95e-ecaf-1436-8166-cb330259c0f1</objectId>
+	<file-name>ca41b95e-ecaf-1436-8166-cb330259c0f1.xml</file-name>
+	<internal-name>Olwethu Leshabane</internal-name>
+	<imageAlt_s>Olwethu Leshabane, author of Art of Superwoman.</imageAlt_s>
+	<videoLength_s>1</videoLength_s>
+	<videoUrl_s>https://www.youtube.com/watch?v=ncCDLuYTfr8</videoUrl_s>
+	<date_s>27 August 2020</date_s>
+	<title_s>A superwoman who empowers other women</title_s>
+	<image_s/>
+	<content_html>&lt;div class="card-body"&gt;
+&lt;p class="fw-900 no-margin-bottom"&gt;&lt;strong&gt;Olwethu Leshabane&lt;/strong&gt;&lt;/p&gt;
+&lt;p class="no-margin-top"&gt;Brand and digital strategist, entrepreneur, author and public speaker.&lt;/p&gt;
+&lt;/div&gt;</content_html>
+	<createdDate>2021-04-07T13:50:48.508Z</createdDate>
+	<createdDate_dt>2021-04-07T13:50:48.508Z</createdDate_dt>
+	<lastModifiedDate>2021-05-07T10:30:45.145Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-05-07T10:30:45.145Z</lastModifiedDate_dt>
+	<image_url_s>https://d1sdgqff4ryo7u.cloudfront.net/images/olwethu-1-2_section-896x580.jpg</image_url_s>
+</component>
+	</item>	<item datasource="webinarDS" inline="true">	<key>9021df2f-0485-096a-cfe8-040822eb7149</key>
+	<value>Thesis</value>
+<component id="9021df2f-0485-096a-cfe8-040822eb7149">
+	<content-type>/component/component-webinar</content-type>
+	<display-template>/templates/web/components/webinar-component.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>9021</objectGroupId>
+	<objectId>9021df2f-0485-096a-cfe8-040822eb7149</objectId>
+	<internal-name>Thesis</internal-name>
+	<imageAlt_s>Wandile Zondo and Galebowe Mahlatsi, founders of township clothing brand, Thesis.</imageAlt_s>
+	<videoLength_s>1</videoLength_s>
+	<videoUrl_s>https://www.youtube.com/watch?v=_aSF7HYJhrk</videoUrl_s>
+	<date_s>6 August 2020</date_s>
+	<title_s>Growing your business and your community</title_s>
+	<file-name>9021df2f-0485-096a-cfe8-040822eb7149.xml</file-name>
+	<image_s/>
+	<content_html>&lt;div class="card-body"&gt;
+&lt;p class="fw-900 no-margin-bottom"&gt;&lt;strong&gt;Wandile Zondo and Galebowe Mahlatsi&lt;/strong&gt;&lt;/p&gt;
+&lt;p class="no-margin-top"&gt;Founders of Thesis, a distinctive township clothing brand.&lt;/p&gt;
+&lt;/div&gt;</content_html>
+	<createdDate>2021-04-07T13:52:58.564Z</createdDate>
+	<createdDate_dt>2021-04-07T13:52:58.564Z</createdDate_dt>
+	<lastModifiedDate>2021-05-07T10:34:18.787Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-05-07T10:34:18.787Z</lastModifiedDate_dt>
+	<image_url_s>https://d1sdgqff4ryo7u.cloudfront.net/images/wandile-1-2_section-896x580.jpg</image_url_s>
+</component>
+	</item>	<item datasource="webinarDS" inline="true">	<key>ddfd3c5f-861d-8f3f-ef67-466ae2361aaa</key>
+	<value>Lebo Lion</value>
+<component id="ddfd3c5f-861d-8f3f-ef67-466ae2361aaa">
+	<content-type>/component/component-webinar</content-type>
+	<display-template>/templates/web/components/webinar-component.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>ddfd</objectGroupId>
+	<objectId>ddfd3c5f-861d-8f3f-ef67-466ae2361aaa</objectId>
+	<file-name>ddfd3c5f-861d-8f3f-ef67-466ae2361aaa.xml</file-name>
+	<internal-name>Lebo Lion</internal-name>
+	<imageAlt_s>Lebo Lion, social and digital marketing expert.</imageAlt_s>
+	<videoLength_s>1</videoLength_s>
+	<videoUrl_s>https://www.youtube.com/watch?v=tZsOzRLRrL0</videoUrl_s>
+	<date_s>25 June 2020</date_s>
+	<title_s>Finding the right balance to be successful</title_s>
+	<image_s/>
+	<content_html>&lt;div class="card-body"&gt;
+&lt;p class="fw-900 no-margin-bottom"&gt;&lt;strong&gt;Lebo Lion&lt;/strong&gt;&lt;/p&gt;
+&lt;p class="no-margin-top"&gt;Social and digital marketing expert. Also known as The Voice of Marketing.&lt;/p&gt;
+&lt;/div&gt;</content_html>
+	<createdDate>2021-04-07T13:54:23.962Z</createdDate>
+	<createdDate_dt>2021-04-07T13:54:23.962Z</createdDate_dt>
+	<lastModifiedDate>2021-05-07T10:34:47.006Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-05-07T10:34:47.006Z</lastModifiedDate_dt>
+	<image_url_s>https://d1sdgqff4ryo7u.cloudfront.net/images/lebo-1-2_section-896x580.jpg</image_url_s>
+</component>
+	</item>	<item datasource="webinarDS" inline="true">	<key>7a4647cc-11a4-1212-d430-3f506c084f53</key>
+	<value>Khaya Dlanga</value>
+<component id="7a4647cc-11a4-1212-d430-3f506c084f53">
+	<content-type>/component/component-webinar</content-type>
+	<display-template>/templates/web/components/webinar-component.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>7a46</objectGroupId>
+	<objectId>7a4647cc-11a4-1212-d430-3f506c084f53</objectId>
+	<file-name>7a4647cc-11a4-1212-d430-3f506c084f53.xml</file-name>
+	<internal-name>Khaya Dlanga</internal-name>
+	<imageAlt_s>Khaya Dlanga, one of SA’s best known marketing personalities.</imageAlt_s>
+	<videoLength_s>1</videoLength_s>
+	<videoUrl_s>https://www.youtube.com/watch?v=ysvgj3NEAj0</videoUrl_s>
+	<date_s>25 June 2020</date_s>
+	<title_s>How to take risks that win</title_s>
+	<image_s/>
+	<content_html>&lt;div class="card-body"&gt;
+&lt;p class="fw-900 no-margin-bottom"&gt;&lt;strong&gt;Khaya Dlanga&lt;/strong&gt;&lt;/p&gt;
+&lt;p class="no-margin-top"&gt;Author and one of the country's best known marketing personalities.&lt;/p&gt;
+&lt;/div&gt;</content_html>
+	<createdDate>2021-04-07T13:55:47.938Z</createdDate>
+	<createdDate_dt>2021-04-07T13:55:47.938Z</createdDate_dt>
+	<lastModifiedDate>2021-05-07T10:35:45.637Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-05-07T10:35:45.637Z</lastModifiedDate_dt>
+	<image_url_s>https://d1sdgqff4ryo7u.cloudfront.net/images/khaya-1-2_section-896x580.jpg</image_url_s>
+</component>
+	</item>	<item datasource="webinarDS" inline="true">	<key>027f6bcd-7b68-02d1-ddec-5df76064e294</key>
+	<value>Rise above financial situation</value>
+<component id="027f6bcd-7b68-02d1-ddec-5df76064e294">
+	<content-type>/component/component-webinar</content-type>
+	<display-template>/templates/web/components/webinar-component.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>027f</objectGroupId>
+	<objectId>027f6bcd-7b68-02d1-ddec-5df76064e294</objectId>
+	<file-name>027f6bcd-7b68-02d1-ddec-5df76064e294.xml</file-name>
+	<internal-name>Rise above financial situation</internal-name>
+	<imageAlt_s>Name tags neatly displayed on a table for Momentum’s Velocity Club event held on 27 February 2020.</imageAlt_s>
+	<videoLength_s>2</videoLength_s>
+	<videoUrl_s>https://www.youtube.com/watch?v=YOTbgCmTWwc</videoUrl_s>
+	<date_s>27 February 2020</date_s>
+	<title_s>How to rise above your current financial situation</title_s>
+	<image_s/>
+	<content_html>&lt;p&gt;Young professionals got together at Clico Boutique Hotel to learn more about what a life of financial freedom looks like.&lt;/p&gt;</content_html>
+	<createdDate>2021-04-07T13:57:13.514Z</createdDate>
+	<createdDate_dt>2021-04-07T13:57:13.514Z</createdDate_dt>
+	<lastModifiedDate>2021-05-07T10:36:24.256Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-05-07T10:36:24.256Z</lastModifiedDate_dt>
+	<image_url_s>https://d1sdgqff4ryo7u.cloudfront.net/images/video-desktop@2x.jpg</image_url_s>
+</component>
+	</item>	<item datasource="webinarDS" inline="true">	<key>1e1c642e-a8f8-f86c-246d-c2df30dd586e</key>
+	<value>Buhle Dlamini</value>
+<component id="1e1c642e-a8f8-f86c-246d-c2df30dd586e">
+	<content-type>/component/component-webinar</content-type>
+	<display-template>/templates/web/components/webinar-component.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>1e1c</objectGroupId>
+	<objectId>1e1c642e-a8f8-f86c-246d-c2df30dd586e</objectId>
+	<file-name>1e1c642e-a8f8-f86c-246d-c2df30dd586e.xml</file-name>
+	<internal-name>Buhle Dlamini</internal-name>
+	<imageAlt_s>Buhle Dlamini, international speaker and award-winning entrepreneur.</imageAlt_s>
+	<videoLength_s>24</videoLength_s>
+	<videoUrl_s>https://www.youtube.com/watch?v=MUpJXxuYHIU</videoUrl_s>
+	<date_s>22 April 2020</date_s>
+	<title_s>Unleashing your greatness in challenging times</title_s>
+	<image_s/>
+	<content_html>&lt;div class="card-body"&gt;
+&lt;p class="fw-900 no-margin-bottom"&gt;&lt;strong&gt;Buhle Dlamini&lt;/strong&gt;&lt;/p&gt;
+&lt;p class="no-margin-top"&gt;International speaker and award-winning entrepreneur who runs his own training and development company, Young and Able.&lt;/p&gt;
+&lt;/div&gt;</content_html>
+	<createdDate>2021-04-07T13:58:33.336Z</createdDate>
+	<createdDate_dt>2021-04-07T13:58:33.336Z</createdDate_dt>
+	<lastModifiedDate>2021-05-07T10:36:52.235Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-05-07T10:36:52.235Z</lastModifiedDate_dt>
+	<image_url_s>https://d1sdgqff4ryo7u.cloudfront.net/images/buhle-desktop@2x.jpg</image_url_s>
+</component>
+	</item></webinars_o>
+	<content_html>&lt;div class="card-body"&gt;
+&lt;p class="fw-900 no-margin-bottom"&gt;&lt;strong&gt;Nicolette Mashile&lt;/strong&gt;&lt;/p&gt;
+&lt;p class="no-margin-top"&gt;Multi-talented media personality, actress and radio host.&lt;/p&gt;
+&lt;p class="fw-900 no-margin-bottom"&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p class="fw-900 no-margin-bottom"&gt;&lt;strong&gt;Topic&lt;/strong&gt;&lt;/p&gt;
+&lt;p class="no-margin-top"&gt;Want to know how to make better financial decisions? Nicolette will be giving you the tools you need to achieve financial success.&lt;/p&gt;
+&lt;/div&gt;</content_html>
+	<buttonLabel_s>Join the free webinar</buttonLabel_s>
+	<image_url_s>https://d1sdgqff4ryo7u.cloudfront.net/images/nicollete-1-2_section-896x580.jpg</image_url_s>
+</page>

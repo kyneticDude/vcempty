@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-pokemon</content-type>
+	<display-template/>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>612b</objectGroupId>
+	<objectId>612b8ff3-bb1a-22df-fa4d-a408d924ab55</objectId>
+	<file-name>612b8ff3-bb1a-22df-fa4d-a408d924ab55.xml</file-name>
+	<internal-name>Ivysaur</internal-name>
+	<title_s>Ivysaur</title_s>
+	<number_s>#2</number_s>
+	<height_s>1m</height_s>
+	<weight_s>13kg</weight_s>
+	<desription_t>When the bud on its back starts swelling, a sweet aroma wafts to indicate the flowers coming bloom.</desription_t>
+	<attacks_o>	<item>	<key>grass</key>
+	<value>Grass</value>
+	</item>	<item>	<key>poison</key>
+	<value>Poison</value>
+	</item></attacks_o>
+	<createdDate>2021-06-15T08:29:36.197Z</createdDate>
+	<createdDate_dt>2021-06-15T08:29:36.197Z</createdDate_dt>
+	<lastModifiedDate>2021-06-15T08:29:36.197Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-15T08:29:36.197Z</lastModifiedDate_dt>
+</component>

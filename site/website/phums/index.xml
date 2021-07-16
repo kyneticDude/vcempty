@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/page-generic</content-type>
+	<display-template>/templates/web/pages/generic-page.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>9b3c</objectGroupId>
+	<objectId>9b3c2273-7c88-aed9-d464-86b8a9ca837b</objectId>
+	<internal-name>Phums</internal-name>
+	<navLabel>Phumlani</navLabel>
+	<file-name>index.xml</file-name>
+	<folder-name>phums</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<sections_o item-list="true">	<item datasource="sections" inline="true">	<key>6f9e3881-a79a-db73-ffed-0bee2d39d368</key>
+	<value>Get smart about your money. Get a Money Plan.</value>
+<component id="6f9e3881-a79a-db73-ffed-0bee2d39d368">
+	<content-type>/component/component-cardfwlm</content-type>
+	<display-template>/templates/web/components/cardfull-lm-component.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>6f9e</objectGroupId>
+	<objectId>6f9e3881-a79a-db73-ffed-0bee2d39d368</objectId>
+	<internal-name>Get smart about your money. Get a Money Plan.</internal-name>
+	<cardFullImageUrl_s>https://d1sdgqff4ryo7u.cloudfront.net/images/money guide-hero_section.png</cardFullImageUrl_s>
+	<cardFullTitle_s>Get smart about your money. Get a Money Plan.</cardFullTitle_s>
+	<imageAlt_s>Young woman and man laughing as the woman looks down at her cell phone.</imageAlt_s>
+	<file-name>6f9e3881-a79a-db73-ffed-0bee2d39d368.xml</file-name>
+	<cardFullImage_s/>
+	<cardFullContent_html>&lt;p&gt;We'll guide you to a future of financial security. Whether you're changing jobs, studying further, or starting a family - we'll help you define your life goals and equip you with the financial advice and knowledge on how to make your goals a reality.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;We ask. We listen. We solv.&lt;/strong&gt;&lt;/p&gt;</cardFullContent_html>
+	<createdDate>2021-06-11T09:17:18.415Z</createdDate>
+	<createdDate_dt>2021-06-11T09:17:18.415Z</createdDate_dt>
+	<lastModifiedDate>2021-06-11T09:30:19.553Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-11T09:30:19.553Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>f1050de7-6ff0-86eb-d128-aad9b931047e</key>
+	<value>Get smart about your money. Get a Money Plan.</value>
+<component id="f1050de7-6ff0-86eb-d128-aad9b931047e">
+	<content-type>/component/component-cardrm</content-type>
+	<display-template>/templates/web/components/cardrm-component.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f105</objectGroupId>
+	<objectId>f1050de7-6ff0-86eb-d128-aad9b931047e</objectId>
+	<internal-name>Get smart about your money. Get a Money Plan.</internal-name>
+	<title_s>Get smart about your money. Get a Money Plan.</title_s>
+	<contentImageUrl_s>https://d1sdgqff4ryo7u.cloudfront.net/images/money guide-hero_section.png</contentImageUrl_s>
+	<imageAlt_s>Young woman and man laughing as the woman looks down at her cell phone.</imageAlt_s>
+	<file-name>f1050de7-6ff0-86eb-d128-aad9b931047e.xml</file-name>
+	<contentImage_s/>
+	<content_html>&lt;p&gt;We'll guide you to a future of financial security. Whether you're changing jobs, studying further, or starting a family - we'll help you define your life goals and equip you with the financial advice and knowledge on how to make your goals a reality.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;We ask. We listen. We solve.&lt;/strong&gt;&lt;/p&gt;</content_html>
+	<createdDate>2021-06-11T09:43:40.378Z</createdDate>
+	<createdDate_dt>2021-06-11T09:43:40.378Z</createdDate_dt>
+	<lastModifiedDate>2021-06-11T09:43:40.378Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-11T09:43:40.378Z</lastModifiedDate_dt>
+</component>
+	</item></sections_o>
+	<createdDate>2021-06-11T08:59:35.103Z</createdDate>
+	<createdDate_dt>2021-06-11T08:59:35.103Z</createdDate_dt>
+	<lastModifiedDate>2021-07-01T08:25:43.639Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-07-01T08:25:43.639Z</lastModifiedDate_dt>
+</page>

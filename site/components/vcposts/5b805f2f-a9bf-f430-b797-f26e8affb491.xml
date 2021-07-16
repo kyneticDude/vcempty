@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-vcposts</content-type>
+	<display-template>/templates/web/components/vcposts-component.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>5b80</objectGroupId>
+	<objectId>5b805f2f-a9bf-f430-b797-f26e8affb491</objectId>
+	<file-name>5b805f2f-a9bf-f430-b797-f26e8affb491.xml</file-name>
+	<internal-name>VC Posts with Latest Articles</internal-name>
+	<disabled>false</disabled>
+	<widgets_o item-list="true">	<item datasource="components">	<key>/site/components/articles-widget/latest-articles-widget.xml</key>
+	<value>Latest Articles Widget</value>
+	<include>/site/components/articles-widget/latest-articles-widget.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></widgets_o>
+	<createdDate>2021-05-10T10:04:37.520Z</createdDate>
+	<createdDate_dt>2021-05-10T10:04:37.520Z</createdDate_dt>
+	<lastModifiedDate>2021-05-10T10:04:37.520Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-05-10T10:04:37.520Z</lastModifiedDate_dt>
+</component>

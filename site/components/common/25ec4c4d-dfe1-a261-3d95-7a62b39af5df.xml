@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/component-footer</content-type>
+	<display-template>/templates/web/components/footer-component.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>25ec</objectGroupId>
+	<objectId>25ec4c4d-dfe1-a261-3d95-7a62b39af5df</objectId>
+	<file-name>25ec4c4d-dfe1-a261-3d95-7a62b39af5df.xml</file-name>
+	<internal-name>Default Footer</internal-name>
+	<createdDate>2021-03-25T07:51:31.860Z</createdDate>
+	<createdDate_dt>2021-03-25T07:51:31.860Z</createdDate_dt>
+	<lastModifiedDate>2021-03-31T12:52:20.240Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-03-31T12:52:20.240Z</lastModifiedDate_dt>
+	<copyrightInfo_html>&lt;p&gt;Velocity Club is offered by Momentum Metropolitan Life Limited, a registered financial services provider&lt;/p&gt;
+&lt;p&gt;(Reg no: 1904/002186/06, FSP License no: 6406). &amp;copy; 2021 Velocity Club&lt;/p&gt;</copyrightInfo_html>
+	<columnOneTitle_s>Partner with us</columnOneTitle_s>
+	<columnTwoTitle_s>Newsroom</columnTwoTitle_s>
+	<columnThreeTitle_s>Information</columnThreeTitle_s>
+	<columnFourTitle_s>Contact us</columnFourTitle_s>
+	<socialLinks_o item-list="true">	<item>	<url_s>https://www.facebook.com</url_s>
+	<socialSites_s>facebook</socialSites_s>
+	</item>	<item>	<socialSites_s>linkedin</socialSites_s>
+	<url_s>https://www.linkedin.com</url_s>
+	</item>	<item>	<socialSites_s>instagram</socialSites_s>
+	<url_s>https://www.instagram.com</url_s>
+	</item>	<item>	<socialSites_s>youtube</socialSites_s>
+	<url_s>https://www.youtube.com</url_s>
+	</item></socialLinks_o>
+	<columnOneLinks_o item-list="true">	<item>	<label_s>Home</label_s>
+	<url_s>/</url_s>
+	</item>	<item>	<label_s>Financial Check-Up</label_s>
+	<url_s>/financial-check-up</url_s>
+	</item>	<item>	<label_s>Money Plan</label_s>
+	<url_s>/money-plan</url_s>
+	</item></columnOneLinks_o>
+	<columnTwoLinks_o item-list="true">	<item>	<label_s>Coffee Sessions</label_s>
+	<url_s>/coffee-sessions</url_s>
+	</item>	<item>	<label_s>Events and Webinars</label_s>
+	<url_s>/events-and-webinars</url_s>
+	</item>	<item>	<label_s>Expert Opinions</label_s>
+	<url_s>/expert-opinions</url_s>
+	</item></columnTwoLinks_o>
+	<columnThreeLinks_o item-list="true">	<item>	<label_s>Site map</label_s>
+	<url_s>/site-map</url_s>
+	</item></columnThreeLinks_o>
+	<columnFourLinks_o item-list="true">	<item>	<email_s>info@velocityclub.co.za</email_s>
+	<phoneNumber_s>0739169367</phoneNumber_s>
+	</item></columnFourLinks_o>
+</component>

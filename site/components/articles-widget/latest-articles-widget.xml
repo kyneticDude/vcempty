@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/articles-widget</content-type>
+	<display-template>/templates/web/components/articles-widget.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>37e5</objectGroupId>
+	<objectId>37e5f47b-f6c2-73a7-c6cc-9e47e09a1eca</objectId>
+	<disabled>false</disabled>
+	<max_articles_i>3</max_articles_i>
+	<internal-name>Latest Articles Widget</internal-name>
+	<title_t>Latest Articles</title_t>
+	<file-name>latest-articles-widget.xml</file-name>
+	<folder-name/>
+	<scripts_o item-list="true">	<item datasource="scripts">	<key>/scripts/components/latest-articles.groovy</key>
+	<value>latest-articles.groovy</value>
+	</item></scripts_o>
+	<createdDate>2021-05-10T10:03:01.866Z</createdDate>
+	<createdDate_dt>2021-05-10T10:03:01.866Z</createdDate_dt>
+	<lastModifiedDate>2021-05-10T10:03:01.866Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-05-10T10:03:01.866Z</lastModifiedDate_dt>
+</component>

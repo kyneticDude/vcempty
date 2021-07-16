@@ -1,0 +1,13 @@
+<content-type name="/component/component-upcomingevent" is-wcm-type="true">
+	<label>Component - Upcoming Event</label>
+	<form>/component/component-upcomingevent</form>
+	<form-path>simple</form-path>
+	<model-instance-path>NOT-USED-BY-SIMPLE-FORM-ENGINE</model-instance-path>
+	<file-extension>xml</file-extension>
+	<content-as-folder>false</content-as-folder>
+	<previewable>false</previewable>
+	<quickCreate>false</quickCreate>
+	<quickCreatePath></quickCreatePath>
+	<noThumbnail>true</noThumbnail>
+	<image-thumbnail></image-thumbnail>
+</content-type>

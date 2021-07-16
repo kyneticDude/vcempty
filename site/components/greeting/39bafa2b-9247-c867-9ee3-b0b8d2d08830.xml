@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/greeting</content-type>
+	<display-template>/templates/web/greetingText.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>39ba</objectGroupId>
+	<objectId>39bafa2b-9247-c867-9ee3-b0b8d2d08830</objectId>
+	<internal-name>Greet</internal-name>
+	<file-name>39bafa2b-9247-c867-9ee3-b0b8d2d08830.xml</file-name>
+	<greetingText_t>Hi There!</greetingText_t>
+	<createdDate>2021-07-06T07:17:04.224Z</createdDate>
+	<createdDate_dt>2021-07-06T07:17:04.224Z</createdDate_dt>
+	<lastModifiedDate>2021-07-06T07:17:04.224Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-07-06T07:17:04.224Z</lastModifiedDate_dt>
+</component>

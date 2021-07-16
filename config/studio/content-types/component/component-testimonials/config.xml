@@ -1,0 +1,13 @@
+<content-type name="/component/component-testimonials" is-wcm-type="true">
+	<label>Component - Testimonials</label>
+	<form>/component/component-testimonials</form>
+	<form-path>simple</form-path>
+	<model-instance-path>NOT-USED-BY-SIMPLE-FORM-ENGINE</model-instance-path>
+	<file-extension>xml</file-extension>
+	<content-as-folder>false</content-as-folder>
+	<previewable>false</previewable>
+	<quickCreate>false</quickCreate>
+	<quickCreatePath></quickCreatePath>
+	<noThumbnail>true</noThumbnail>
+	<image-thumbnail></image-thumbnail>
+</content-type>

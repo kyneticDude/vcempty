@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/page-financial-checkup</content-type>
+	<display-template>/templates/web/pages/financial-checkup-page.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>4b3f</objectGroupId>
+	<objectId>4b3f3470-9a35-c482-f841-c195629e0ee8</objectId>
+	<placeInNav>true</placeInNav>
+	<orderDefault_f>25000</orderDefault_f>
+	<internal-name>Financial Check-Up</internal-name>
+	<navLabel>Financial Check-Up</navLabel>
+	<file-name>index.xml</file-name>
+	<folder-name>financial-check-up</folder-name>
+	<createdDate>2021-03-31T13:22:37.585Z</createdDate>
+	<createdDate_dt>2021-03-31T13:22:37.585Z</createdDate_dt>
+	<lastModifiedDate>2021-07-01T08:27:40.352Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-07-01T08:27:40.352Z</lastModifiedDate_dt>
+	<title_s>How healthy are your finances? Get a Financial Check-Up to find out.</title_s>
+	<label_s>Get a Check-Up</label_s>
+	<labelClass_s>fin__checkup</labelClass_s>
+	<imageUrl_s>https://d1sdgqff4ryo7u.cloudfront.net/images/financiacheckup-hero.png</imageUrl_s>
+	<imageAlt_s>Young man casually dressed in a white shirt and hat holding his laptop bag.</imageAlt_s>
+	<contentImageUrl_s>https://d1sdgqff4ryo7u.cloudfront.net/images/fc-592x580_Desktop.jpg</contentImageUrl_s>
+	<contentImageAlt_s>Young woman in jeans and white sweater sitting on a carpet in her lounge working on her laptop.</contentImageAlt_s>
+	<contentTitle_s>So how do I get a Financial Check-Up? Easy!</contentTitle_s>
+	<contentLabel_s>Get a Check-Up</contentLabel_s>
+	<contentLabelClass_s>fin__checkup</contentLabelClass_s>
+	<content_html>&lt;p&gt;You never regret a workout. Yes, some of us like exercise, others don&amp;rsquo;t, but almost everyone feels good afterwards.&lt;/p&gt;
+&lt;p&gt;And just like working out, a Financial Check-Up is necessary to keep your money fit and on track to achieving your goals.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;This is the best place to start&lt;/strong&gt;. A quick checkup on your finances will help you see where you need help and how we can help you fix what&amp;rsquo;s broken.&lt;/p&gt;</content_html>
+	<contentBody_html>&lt;p&gt;Answer a few questions about your spending, borrowing, saving and investing habits. &lt;strong&gt;It&amp;rsquo;s the smart way to stay on track of your finances.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Secure. Confidential. Trustworthy&lt;/strong&gt;.&lt;/p&gt;</contentBody_html>
+</page>

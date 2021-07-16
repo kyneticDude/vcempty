@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/page-moneyplan</content-type>
+	<display-template>/templates/web/pages/money-plan-page.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>7453</objectGroupId>
+	<objectId>74532481-73e5-7f89-bac2-7264e6e3ac58</objectId>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>subscription-fees</folder-name>
+	<internal-name>Subscription Fees</internal-name>
+	<navLabel>Subscription</navLabel>
+	<title_s>Get smart about your money. Get a Money Plan.</title_s>
+	<imageAlt_s>Young woman and man laughing as the woman looks down at her cell phone.</imageAlt_s>
+	<image_url_s>https://d1sdgqff4ryo7u.cloudfront.net/images/money guide-hero_section.png</image_url_s>
+	<sections_o item-list="true">	<item datasource="sections" inline="true">	<key>1ee4bb98-a4f6-ffc4-26e3-ffae407e91da</key>
+	<value>You’re in good hands</value>
+<component id="1ee4bb98-a4f6-ffc4-26e3-ffae407e91da">
+	<content-type>/component/component-signuplm</content-type>
+	<display-template>/templates/web/components/subscribelm-component.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>1ee4</objectGroupId>
+	<objectId>1ee4bb98-a4f6-ffc4-26e3-ffae407e91da</objectId>
+	<file-name>1ee4bb98-a4f6-ffc4-26e3-ffae407e91da.xml</file-name>
+	<internal-name>You’re in good hands</internal-name>
+	<subTitle_s>You’re in good hands</subTitle_s>
+	<title_s>That's the way financial planning should be. Centred on you.</title_s>
+	<label_s>Schedule a Sessions</label_s>
+	<imageUrl_s>https://d1sdgqff4ryo7u.cloudfront.net/images/money guide-content_section.png</imageUrl_s>
+	<imageAlt_s>A handshake between a financial adviser and his cl</imageAlt_s>
+	<image_s/>
+	<createdDate>2021-05-13T10:33:09.554Z</createdDate>
+	<createdDate_dt>2021-05-13T10:33:09.554Z</createdDate_dt>
+	<lastModifiedDate>2021-05-13T10:33:09.554Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-05-13T10:33:09.554Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>1cb4f3a2-a200-fe79-d746-d6a74d101848</key>
+	<value>Packages</value>
+<component id="1cb4f3a2-a200-fe79-d746-d6a74d101848">
+	<content-type>/component/component-packages</content-type>
+	<display-template>/templates/web/components/packages-component.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>1cb4</objectGroupId>
+	<objectId>1cb4f3a2-a200-fe79-d746-d6a74d101848</objectId>
+	<colOneList_o item-list="true">	<item>	<colOneItem_s>Budget and cash-flow management 101</colOneItem_s>
+	</item>	<item>	<colOneItem_s>Set up an emergency fund</colOneItem_s>
+	</item>	<item>	<colOneItem_s>Get rid of bad debt</colOneItem_s>
+	</item>	<item>	<colOneItem_s>Access to exclusive content and research</colOneItem_s>
+	</item></colOneList_o>
+	<colTwoList_o item-list="true">	<item>	<colTwoItem_s>Budget and cash-flow management 101</colTwoItem_s>
+	</item>	<item>	<colTwoItem_s>Set up an emergency fund</colTwoItem_s>
+	</item>	<item>	<colTwoItem_s>Get rid of bad debt</colTwoItem_s>
+	</item>	<item>	<colTwoItem_s>Access to exclusive content and research</colTwoItem_s>
+	</item></colTwoList_o>
+	<internal-name>Packages</internal-name>
+	<sectionTitle_s>SUBSCRIPTION FEES</sectionTitle_s>
+	<heading_s>Affordable and flexible</heading_s>
+	<label_s>Schedule a session</label_s>
+	<colOneHeading_s>Money guide</colOneHeading_s>
+	<colOneLine1_s>Get financially healthy</colOneLine1_s>
+	<colOneLine2_s>R99/mo x 6 months</colOneLine2_s>
+	<colTwoHeading_s>Money plan</colTwoHeading_s>
+	<colTwoLine1_s>Get financially wealthy</colTwoLine1_s>
+	<colTwoLine2_s>R199/mo x 6 months</colTwoLine2_s>
+	<file-name>1cb4f3a2-a200-fe79-d746-d6a74d101848.xml</file-name>
+	<content_html>&lt;p&gt;What happens after the 6 month subscription? You're all set up, and on your way to getting financially healthy. Future support is free of charge if you&amp;rsquo;re on the Money Plan package.&lt;/p&gt;
+&lt;p&gt;Whatever you choose, you are in full control.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Still struggling to get financially healthy?&lt;/strong&gt; Take another round of the Money Guide to keep access to Velocity Club support.&lt;/p&gt;
+&lt;div class="form__inline form__inline--center block__mobile btn-144"&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Ready to start working on your financial wealth?&lt;/strong&gt; Take the Money Plan package for in depth financial planning.&lt;/p&gt;</content_html>
+	<createdDate>2021-05-13T10:36:59.864Z</createdDate>
+	<createdDate_dt>2021-05-13T10:36:59.864Z</createdDate_dt>
+	<lastModifiedDate>2021-05-13T10:40:39.158Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-05-13T10:40:39.158Z</lastModifiedDate_dt>
+</component>
+	</item></sections_o>
+	<content_html>&lt;p class="MsoNormal" style="margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: Cambria; background: #f9f9f9;"&gt;&lt;span style="font-size: 10.5pt; font-family: Arial; color: #2e2e31;"&gt;We'll guide you to a future of financial security. Whether you're changing jobs, studying further, or starting a family - we'll help you define your life goals and equip you with the financial advice and knowledge on how to make your goals a reality.&lt;/span&gt;&lt;/p&gt;</content_html>
+	<createdDate>2021-05-13T10:21:42.070Z</createdDate>
+	<createdDate_dt>2021-05-13T10:21:42.070Z</createdDate_dt>
+	<lastModifiedDate>2021-07-01T08:26:46.638Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-07-01T08:26:46.638Z</lastModifiedDate_dt>
+</page>

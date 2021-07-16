@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/page-caas</content-type>
+	<display-template>/templates/web/pages/pokedex-page.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>b55e</objectGroupId>
+	<objectId>b55e6a73-ce0f-a0ec-a7e0-9c184559716b</objectId>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>caas</folder-name>
+	<internal-name>CaaS</internal-name>
+	<navLabel>CaaS</navLabel>
+	<createdDate>2021-06-29T13:47:45.829Z</createdDate>
+	<createdDate_dt>2021-06-29T13:47:45.829Z</createdDate_dt>
+	<lastModifiedDate>2021-07-01T08:26:33.800Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-07-01T08:26:33.800Z</lastModifiedDate_dt>
+</page>

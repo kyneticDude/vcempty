@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/page-caasv</content-type>
+	<display-template>/templates/web/pages/opinions-page.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>b17a</objectGroupId>
+	<objectId>b17a1d72-c9f0-4640-5912-b1e115563f7b</objectId>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<internal-name>Velocity Opinions API</internal-name>
+	<navLabel>Velocity CaaS</navLabel>
+	<file-name>index.xml</file-name>
+	<folder-name>velocity-opinions-api</folder-name>
+	<createdDate>2021-06-29T17:17:05.769Z</createdDate>
+	<createdDate_dt>2021-06-29T17:17:05.769Z</createdDate_dt>
+	<lastModifiedDate>2021-07-01T08:27:13.004Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-07-01T08:27:13.004Z</lastModifiedDate_dt>
+</page>

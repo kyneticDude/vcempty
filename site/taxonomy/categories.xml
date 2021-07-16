@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/taxonomy</content-type>
+	<display-template/>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>7fbf</objectGroupId>
+	<objectId>7fbf7089-c8f7-0512-f1e6-2b5af757ac0c</objectId>
+	<items item-list="true">	<item>	<key>coffee-sessions</key>
+	<value>Coffee Sessions</value>
+	</item>	<item>	<key>expert-opinions</key>
+	<value>Expert Opinions</value>
+	</item></items>
+	<internal-name>Categories</internal-name>
+	<file-name>categories.xml</file-name>
+	<folder-name/>
+	<createdDate>2021-04-19T15:06:03.823Z</createdDate>
+	<createdDate_dt>2021-04-19T15:06:03.823Z</createdDate_dt>
+	<lastModifiedDate>2021-04-19T15:06:03.823Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-04-19T15:06:03.823Z</lastModifiedDate_dt>
+</component>

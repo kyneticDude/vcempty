@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/page-generic</content-type>
+	<display-template>/templates/web/pages/generic-page.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>8410</objectGroupId>
+	<objectId>84108954-edc2-2541-c0f7-85032cd490a8</objectId>
+	<internal-name>Publishing</internal-name>
+	<navLabel>Publishing</navLabel>
+	<file-name>index.xml</file-name>
+	<folder-name>publishing</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<sections_o item-list="true">	<item datasource="sections" inline="true">	<key>ab5da7a6-d068-cb47-e397-972e5b43e16a</key>
+	<value>So how do I get a Financial Check-Up? Easy!</value>
+<component id="ab5da7a6-d068-cb47-e397-972e5b43e16a">
+	<content-type>/component/component-cardfwlm</content-type>
+	<display-template>/templates/web/components/cardfull-lm-component.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>ab5d</objectGroupId>
+	<objectId>ab5da7a6-d068-cb47-e397-972e5b43e16a</objectId>
+	<file-name>ab5da7a6-d068-cb47-e397-972e5b43e16a.xml</file-name>
+	<internal-name>So how do I get a Financial Check-Up? Easy!</internal-name>
+	<cardFullImageUrl_s>https://d1sdgqff4ryo7u.cloudfront.net/images/fc-592x580_Desktop.jpg</cardFullImageUrl_s>
+	<cardFullTitle_s>So how do I get a Financial Check-Up? Easy!</cardFullTitle_s>
+	<imageAlt_s>Young woman in jeans and white sweater sitting on a carpet in her lounge working on her laptop.</imageAlt_s>
+	<cardFullImage_s/>
+	<cardFullContent_html>&lt;p&gt;Answer a few questions about your spending, borrowing, saving and investing &lt;em&gt;&lt;strong&gt;habits&lt;/strong&gt;&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;strong&gt;It&amp;rsquo;s the smart way to stay on track of your finances.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Secure. Confidential. &lt;/strong&gt;Trustworthy.&lt;/p&gt;</cardFullContent_html>
+	<createdDate>2021-06-11T10:25:01.925Z</createdDate>
+	<createdDate_dt>2021-06-11T10:25:01.925Z</createdDate_dt>
+	<lastModifiedDate>2021-06-11T10:42:21.374Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-11T10:42:21.374Z</lastModifiedDate_dt>
+</component>
+	</item></sections_o>
+	<createdDate>2021-06-11T10:18:56.558Z</createdDate>
+	<createdDate_dt>2021-06-11T10:18:56.558Z</createdDate_dt>
+	<lastModifiedDate>2021-07-01T08:26:00.366Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-07-01T08:26:00.366Z</lastModifiedDate_dt>
+</page>

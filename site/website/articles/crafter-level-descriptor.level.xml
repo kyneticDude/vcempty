@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/level-descriptor</content-type>
+	<display-template/>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>98cf</objectGroupId>
+	<objectId>98cf969d-74be-a6b5-5577-f159f684ba39</objectId>
+	<defaultHeader_o item-list="true">	<item datasource="headerDS">	<key>/site/components/common/2f02d541-208a-9286-2ec6-529b1e6af308.xml</key>
+	<value>Default Header</value>
+	<include>/site/components/common/2f02d541-208a-9286-2ec6-529b1e6af308.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></defaultHeader_o>
+	<defaultFooter_o item-list="true">	<item datasource="footerDS">	<key>/site/components/common/25ec4c4d-dfe1-a261-3d95-7a62b39af5df.xml</key>
+	<value>Default Footer</value>
+	<include>/site/components/common/25ec4c4d-dfe1-a261-3d95-7a62b39af5df.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></defaultFooter_o>
+	<file-name>crafter-level-descriptor.level.xml</file-name>
+	<folder-name/>
+	<createdDate>2021-04-15T12:18:29.204Z</createdDate>
+	<createdDate_dt>2021-04-15T12:18:29.204Z</createdDate_dt>
+	<lastModifiedDate>2021-04-15T12:18:29.204Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-04-15T12:18:29.204Z</lastModifiedDate_dt>
+</component>

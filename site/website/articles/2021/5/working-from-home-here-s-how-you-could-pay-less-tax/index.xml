@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/article</content-type>
+	<display-template>/templates/web/pages/article.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>810b</objectGroupId>
+	<objectId>810bd8d9-7cb8-37f7-0f2e-21df86a6026b</objectId>
+	<internal-name>Working from home? Here’s how you could pay less tax</internal-name>
+	<title_s>Working from home? Here’s how you could pay less tax.</title_s>
+	<imageAlt_s>Hands placed on a laptop set ontop a white desk.</imageAlt_s>
+	<image_url_s>https://www.velocityclub.co.za/images/hands-on-a-laptop-ontop-of-a-white-desk.jpg</image_url_s>
+	<post_id_s/>
+	<disabled>false</disabled>
+	<categories_o>	<item>	<key>expert-opinions</key>
+	<value_smv>Expert Opinions</value_smv>
+	</item></categories_o>
+	<file-name>index.xml</file-name>
+	<folder-name>working-from-home-here-s-how-you-could-pay-less-tax</folder-name>
+	<postSection_o item-list="true">	<item datasource="sections" inline="true">	<key>500dbc17-130b-05cf-e148-8399b485c868</key>
+	<value>Intro</value>
+<component id="500dbc17-130b-05cf-e148-8399b485c868">
+	<content-type>/component/component-articlesection</content-type>
+	<display-template>/templates/web/components/article-section.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>500d</objectGroupId>
+	<objectId>500dbc17-130b-05cf-e148-8399b485c868</objectId>
+	<internal-name>Intro</internal-name>
+	<sectionClass_s>no-margin-top</sectionClass_s>
+	<file-name>500dbc17-130b-05cf-e148-8399b485c868.xml</file-name>
+	<sectionContent_html>&lt;section class="container"&gt;
+&lt;div class="wide--layout"&gt;
+&lt;div class="grid flex-grid grid-inner__article no-margin-top"&gt;
+&lt;div class="grid__cell"&gt;
+&lt;p&gt;Working from home can be a pretty sweet deal with some decent benefits. No sitting in traffic, nobody telling you to wear pants, no more having to listen to Alice in HR&amp;rsquo;s cringey stories about her &amp;lsquo;furbabies&amp;rsquo;, and plus your fridge is, like, right there.&lt;/p&gt;
+&lt;p&gt;But, here&amp;rsquo;s one benefit that you might not be aware of: Less tax!&lt;/p&gt;
+&lt;p&gt;That&amp;rsquo;s right. If you&amp;rsquo;re working from home, SARS may allow you to claim back some of the costs involved in running your new home office! To find out if you qualify, what the rules are, and how all of that works, just keep reading!&lt;/p&gt;
+&lt;p&gt;And don&amp;rsquo;t worry - we won&amp;rsquo;t make you put on pants for it.&lt;/p&gt;
+&lt;h2 class="text--md"&gt;Do you qualify?&lt;/h2&gt;
+&lt;p&gt;In order to be eligible to claim for any working-from-home tax deductions, your job must fall into one of these categories:&lt;/p&gt;
+&lt;ul class="list-spacing"&gt;
+&lt;li&gt;You earn more than 50% of your total salary by way of commission AND you don&amp;rsquo;t spend the majority of your time at the company offices;&lt;/li&gt;
+&lt;li&gt;You&amp;rsquo;re an independent contractor;&lt;/li&gt;
+&lt;li&gt;You are a full-time employee and you work from home more than half of your total working hours.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Also:&lt;/strong&gt; You need written permission from your employer allowing you to work from home also stating the percentage of time spent working from home, or you need a clause in your employment contract specifying the fact that you will work from home.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;</sectionContent_html>
+	<createdDate>2021-07-14T16:45:31.057Z</createdDate>
+	<createdDate_dt>2021-07-14T16:45:31.057Z</createdDate_dt>
+	<lastModifiedDate>2021-07-14T16:45:31.057Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-07-14T16:45:31.057Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>20595cc4-4572-5224-fbfc-1a5081237ee6</key>
+	<value>Quote blue</value>
+<component id="20595cc4-4572-5224-fbfc-1a5081237ee6">
+	<content-type>/component/component-calloutcolor</content-type>
+	<display-template>/templates/web/components/call-out-color.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>2059</objectGroupId>
+	<objectId>20595cc4-4572-5224-fbfc-1a5081237ee6</objectId>
+	<internal-name>Quote blue</internal-name>
+	<bg_color_s>bg--blue</bg_color_s>
+	<file-name>20595cc4-4572-5224-fbfc-1a5081237ee6.xml</file-name>
+	<call_out_content_html>&lt;h2 class="title--md no-margin-top"&gt;Alright, if you successfully ticked one of those boxes, that&amp;rsquo;s good news, but you&amp;rsquo;ve still got a few hurdles to jump through before you get a lower tax bill. Hey - we only said you don&amp;rsquo;t have to wear pants. We didn&amp;rsquo;t say that it would be easy.&lt;/h2&gt;</call_out_content_html>
+	<createdDate>2021-07-14T16:45:58.248Z</createdDate>
+	<createdDate_dt>2021-07-14T16:45:58.248Z</createdDate_dt>
+	<lastModifiedDate>2021-07-14T16:45:58.248Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-07-14T16:45:58.248Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>99569c4d-dc6c-fd5d-30a8-656244f32355</key>
+	<value>Sec 1</value>
+<component id="99569c4d-dc6c-fd5d-30a8-656244f32355">
+	<content-type>/component/component-articlesection</content-type>
+	<display-template>/templates/web/components/article-section.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>9956</objectGroupId>
+	<objectId>99569c4d-dc6c-fd5d-30a8-656244f32355</objectId>
+	<internal-name>Sec 1</internal-name>
+	<sectionClass_s>no-margin-bottom</sectionClass_s>
+	<file-name>99569c4d-dc6c-fd5d-30a8-656244f32355.xml</file-name>
+	<sectionContent_html>&lt;section class="container"&gt;
+&lt;div class="wide--layout"&gt;
+&lt;div class="grid flex-grid grid-inner__article no-margin-bottom"&gt;
+&lt;div class="grid__cell"&gt;
+&lt;h2 class="text--md"&gt;Does your home office space qualify?&lt;/h2&gt;
+&lt;p&gt;That depends, and SARS has some specific guidelines for this. Basically, you will need to be able to prove that the space you work from at home, actually qualifies as a &amp;lsquo;home office&amp;rsquo;. The bad news here is that you, sitting on your couch with a laptop and Netflix playing in the background, probably doesn&amp;rsquo;t count. These are SARS&amp;rsquo; requirements:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;It has to be a dedicated work area that&amp;rsquo;s used exclusively for work purposes on a regular basis. That doesn&amp;rsquo;t mean it has to be an entire room. A part of an existing room is also okay, as long as it meets the rest of the requirements in this list.&lt;/li&gt;
+&lt;li&gt;You need to have set it up with everything you need, to carry out your specific work and work-related duties. In other words, it must actually look like a serious place that actual work is done in. So, this will mean that it will probably include basics like a desk, an office chair, a computer, an internet connection, etc.&lt;/li&gt;
+&lt;li&gt;You must have worked from that space for at least six months of the tax year.&lt;/li&gt;
+&lt;li&gt;When you need to do your work, you do it primarily (more than 50% of the time) in that space.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 class="text--md"&gt;What can you claim for?&lt;/h2&gt;
+&lt;p&gt;No, you can&amp;rsquo;t claim for your Youtube Premium subscription that you still tell everyone you don&amp;rsquo;t have. SARS is quite strict about what claims it will entertain, and it has published a specific list. Here is the list of home office expenses that are eligible to be claimed against your tax bill:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Rent, or alternatively the interest on your bond.&lt;/li&gt;
+&lt;li&gt;Stationery, office equipment, and your internet connection&lt;/li&gt;
+&lt;li&gt;Wear and tear on office equipment.&lt;/li&gt;
+&lt;li&gt;The cost of business calls made from your private home telephone&lt;/li&gt;
+&lt;li&gt;Cleaning&lt;/li&gt;
+&lt;li&gt;Cost of repairs to the premises&lt;/li&gt;
+&lt;li&gt;Rates and taxes on the premises&lt;/li&gt;
+&lt;li&gt;Water and electricity&lt;/li&gt;
+&lt;li&gt;Levies&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 class="text--md"&gt;Calculating claimable expenses.&lt;/h2&gt;
+&lt;p&gt;What&amp;rsquo;s that? You wanted to know how to calculate your claimable expenses relating to your home office? Well, as they say, &amp;lsquo;you got questions, I got answers&amp;rsquo;, and they&amp;rsquo;re right here:&lt;/p&gt;
+&lt;p&gt;First, measure up your home office space and note down the total square meterage. Second, measure up your whole house. Or better yet, get your partner to do it while you enjoy some sweet ad-free Youtube Premium videos. You know, with that subscription that you still swear to everyone that you never signed up for.&lt;/p&gt;
+&lt;p&gt;Finally, divide your home office space measurement by your whole house measurement. That will give you the percentage size of your home office relative to your house.&lt;/p&gt;
+&lt;p&gt;And now, it&amp;rsquo;s time to whip out your calculator.&lt;/p&gt;
+&lt;p&gt;List your various expenses, each with its own line total. Then, multiply each of those totals by the percentage number that you just calculated.&lt;/p&gt;
+&lt;p&gt;So for example, if you paid R120,000 in rent for the year, and your home office is 5 square metres, then you&amp;rsquo;ll be eligible to claim R6,000 as a home office expense.&lt;/p&gt;
+&lt;p&gt;Once you have all of those totals, you can allow for them by filling them in, in the &amp;lsquo;Other Deductions section of the &amp;lsquo;Home office expenses&amp;rsquo; block of your tax return. Just bear in mind that the SARS auto assessment won&amp;rsquo;t automatically list these for you, you&amp;rsquo;ll have to add them to your tax return yourself.&lt;/p&gt;
+&lt;p&gt;Or just use &lt;a href="https://www.taxtim.com/za/calculators/home-office-expense-calculator" target="_blank" rel="noopener"&gt;this nifty calculator&lt;/a&gt; on the TaxTim website.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;</sectionContent_html>
+	<createdDate>2021-07-14T16:46:36.052Z</createdDate>
+	<createdDate_dt>2021-07-14T16:46:36.052Z</createdDate_dt>
+	<lastModifiedDate>2021-07-14T16:46:36.052Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-07-14T16:46:36.052Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>580a2b9f-5b6f-d1b9-49cf-e7dfb72e1d77</key>
+	<value>Quote 2</value>
+<component id="580a2b9f-5b6f-d1b9-49cf-e7dfb72e1d77">
+	<content-type>/component/component-calloutleft</content-type>
+	<display-template>/templates/web/components/call-out-left.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>580a</objectGroupId>
+	<objectId>580a2b9f-5b6f-d1b9-49cf-e7dfb72e1d77</objectId>
+	<file-name>580a2b9f-5b6f-d1b9-49cf-e7dfb72e1d77.xml</file-name>
+	<internal-name>Quote 2</internal-name>
+	<call_out_content_html>&lt;h2 class="title--md no-margin-top"&gt;Remember: these claims will not be listed on your SARS auto assessment and therefore it is important to ensure that you add these to your tax return yourself.&lt;/h2&gt;</call_out_content_html>
+	<createdDate>2021-07-14T16:47:05.710Z</createdDate>
+	<createdDate_dt>2021-07-14T16:47:05.710Z</createdDate_dt>
+	<lastModifiedDate>2021-07-14T16:47:05.710Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-07-14T16:47:05.710Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>11b1527c-a6be-d1dd-b810-71495ae3e3ee</key>
+	<value>Sec 2</value>
+<component id="11b1527c-a6be-d1dd-b810-71495ae3e3ee">
+	<content-type>/component/component-articlesection</content-type>
+	<display-template>/templates/web/components/article-section.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>11b1</objectGroupId>
+	<objectId>11b1527c-a6be-d1dd-b810-71495ae3e3ee</objectId>
+	<internal-name>Sec 2</internal-name>
+	<sectionClass_s>no-margin-bottom</sectionClass_s>
+	<file-name>11b1527c-a6be-d1dd-b810-71495ae3e3ee.xml</file-name>
+	<sectionContent_html>&lt;section class="container"&gt;
+&lt;div class="wide--layout"&gt;
+&lt;div class="grid flex-grid grid-inner__article no-margin-bottom"&gt;
+&lt;div class="grid__cell"&gt;
+&lt;p&gt;One then applies this final percentage to the home office expenditure in order to calculate the portion of expenses which is deductible. You allow for this in the &amp;ldquo;Other Deductions&amp;rdquo; section of the ITR12 in the block for Home Office expenses when you complete your tax return.&lt;/p&gt;
+&lt;p&gt;Remember: these claims will not be listed on your SARS auto assessment and therefore it is important to ensure that you add these to your tax return yourself.&lt;/p&gt;
+&lt;p&gt;Let&amp;rsquo;s look at an example:&lt;br /&gt;Say your home office is 5 square meters and your total apartment is 100 square meters, then you will be able to claim 5% of household costs as a Home Office Deduction. If you paid R120,000 of rent for the tax year, you will therefore be able to deduct R6,000 as a home office expense. You then use the same approach for the other expenses that you are eligible to claim for.&lt;/p&gt;
+&lt;p&gt;You can also use &lt;a href="https://www.taxtim.com/za/calculators/home-office-expense-calculator" target="_blank" rel="noopener"&gt;this nifty calculator&lt;/a&gt; that TaxTim developed.&lt;/p&gt;
+&lt;h2 class="text--md"&gt;And what if your employer is reimbursing you for these costs?&lt;/h2&gt;
+&lt;p&gt;There&amp;rsquo;s a good chance that many of you reading this will be receiving reimbursements from your employer, for some of the costs you&amp;rsquo;re incurring in running your home office. The money your employer pays you for these reimbursements is not taxable, provided it meets these requirements:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Your employer needs to have given you an instruction to buy those goods or services.&lt;/li&gt;
+&lt;li&gt;You incurred the costs as a direct result of doing your work.&lt;/li&gt;
+&lt;li&gt;You are able to prove that the costs that you incurred were used only for work purposes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The types of reimbursed costs that are most often not taxable are data bundles or internet connection costs, and stationery bought to perform your work tasks.&lt;/p&gt;
+&lt;p&gt;We&amp;rsquo;re almost done! So far, we&amp;rsquo;ve looked at what SARS&amp;rsquo; criteria is for a home office space, and we&amp;rsquo;ve listed the working from home expenses that may be eligible to be claimed against your tax bill. There&amp;rsquo;s one final bit to talk about and it&amp;rsquo;s something called Capital Gains Tax, or CGT as the nerds call it.&lt;/p&gt;
+&lt;h2 class="text--md"&gt;What is Capital Gains Tax &amp;amp; how does it affect my home office?&lt;/h2&gt;
+&lt;p&gt;It&amp;rsquo;s a tax that is added to your income tax. It is ONLY triggered whenever you sell an asset for a profit, and it is calculated based on the profit you made.&lt;/p&gt;
+&lt;p&gt;Claiming for a home office tax deduction can decrease your tax liability - in other words, you&amp;rsquo;ll pay less tax. However, there&amp;rsquo;s a big BUT here:&lt;/p&gt;
+&lt;p&gt;SARS allows the first R2 million of profit made from selling your home (your &amp;lsquo;primary residence&amp;rsquo;), to be excluded from Capital Gains Tax. However, if you choose to claim for home office expenses, then SARS will exclude your home office space from your primary residence capital gains tax break.&lt;/p&gt;
+&lt;p&gt;So in summary, if you choose to go the route of claiming a tax deduction for your home office, then you may lose out when it comes time to sell your house. As with most things tax, it&amp;rsquo;s always best to first consult a tax professional before making any decisions.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;</sectionContent_html>
+	<createdDate>2021-07-14T16:47:33.381Z</createdDate>
+	<createdDate_dt>2021-07-14T16:47:33.381Z</createdDate_dt>
+	<lastModifiedDate>2021-07-14T16:47:41.643Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-07-14T16:47:41.643Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>9d54b72a-2e9f-3e49-d7cd-b9b4f87a411a</key>
+	<value>Quote 3</value>
+<component id="9d54b72a-2e9f-3e49-d7cd-b9b4f87a411a">
+	<content-type>/component/component-calloutright</content-type>
+	<display-template>/templates/web/components/call-out-right.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>9d54</objectGroupId>
+	<objectId>9d54b72a-2e9f-3e49-d7cd-b9b4f87a411a</objectId>
+	<internal-name>Quote 3</internal-name>
+	<file-name>9d54b72a-2e9f-3e49-d7cd-b9b4f87a411a.xml</file-name>
+	<call_out_content_html>&lt;h2 class="title--md no-margin-top"&gt;Claiming for a home office tax deduction can decrease your tax liability - in other words, you&amp;rsquo;ll pay less tax.&lt;/h2&gt;</call_out_content_html>
+	<createdDate>2021-07-14T16:48:13.495Z</createdDate>
+	<createdDate_dt>2021-07-14T16:48:13.495Z</createdDate_dt>
+	<lastModifiedDate>2021-07-14T16:48:13.495Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-07-14T16:48:13.495Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>967baa51-b872-50a1-dbd2-e91f55374225</key>
+	<value>Conclusion</value>
+<component id="967baa51-b872-50a1-dbd2-e91f55374225">
+	<content-type>/component/component-articlesection</content-type>
+	<display-template>/templates/web/components/article-section.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>967b</objectGroupId>
+	<objectId>967baa51-b872-50a1-dbd2-e91f55374225</objectId>
+	<file-name>967baa51-b872-50a1-dbd2-e91f55374225.xml</file-name>
+	<internal-name>Conclusion</internal-name>
+	<sectionClass_s>no-margin-top</sectionClass_s>
+	<sectionContent_html>&lt;section class="container"&gt;
+&lt;div class="wide--layout"&gt;
+&lt;div class="grid flex-grid grid-inner__article no-margin-top"&gt;
+&lt;div class="grid__cell"&gt;
+&lt;h2 class="text--md"&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Working from home has its benefits.&lt;/p&gt;
+&lt;p&gt;Apart from not having to wear pants all day, and not having to deal with annoying co-workers, you may also be able to claim for some tax deductions for the costs of setting up and running your home office. In this blog, we listed all of the items that SARS will allow you to deduct from your tax bill, and we learned that you can claim tax breaks for your workspace itself against some of your property costs. Nice!&lt;/p&gt;
+&lt;p&gt;Now that you&amp;rsquo;re an expert on tax breaks while working from home, why not stick around and learn a bit more from our own financial guru, the lovely Nicolette Mashile? She recently hosted a masterclass called &amp;lsquo;3 steps to financial success&amp;rsquo; where she shares her proven formula to help you level up your money management skills. It&amp;rsquo;s available for you to check out right now for the grand total of: MAHALA!&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;a class="btn btn--primary" role="button" href="https://event.webinarjam.com/register/146/pl388f6m" target="_blank" rel="noopener"&gt;Register for free&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;</sectionContent_html>
+	<createdDate>2021-07-14T16:48:50.683Z</createdDate>
+	<createdDate_dt>2021-07-14T16:48:50.683Z</createdDate_dt>
+	<lastModifiedDate>2021-07-14T16:49:02.677Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-07-14T16:49:02.677Z</lastModifiedDate_dt>
+</component>
+	</item></postSection_o>
+	<createdDate>2021-07-14T16:42:59.542Z</createdDate>
+	<createdDate_dt>2021-07-14T16:42:59.542Z</createdDate_dt>
+	<lastModifiedDate>2021-07-14T16:53:03.349Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-07-14T16:53:03.349Z</lastModifiedDate_dt>
+	<date_dt>2021-07-14T04:00:00.000Z</date_dt>
+	<date_dt_tz>EST5EDT</date_dt_tz>
+</page>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/page-coffee-sessions</content-type>
+	<display-template>/templates/web/pages/coffee-sessions-page.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>373d</objectGroupId>
+	<objectId>373d6430-6841-a13b-9919-a36407adca2c</objectId>
+	<internal-name>Coffee Sessions</internal-name>
+	<navLabel>Coffee Sessions</navLabel>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>coffee-sessions</folder-name>
+	<createdDate>2021-03-31T13:24:56.566Z</createdDate>
+	<createdDate_dt>2021-03-31T13:24:56.566Z</createdDate_dt>
+	<lastModifiedDate>2021-07-01T08:28:27.342Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-07-01T08:28:27.342Z</lastModifiedDate_dt>
+</page>

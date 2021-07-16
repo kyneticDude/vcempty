@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/page-generic</content-type>
+	<display-template>/templates/web/pages/generic-page.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>dd4b</objectGroupId>
+	<objectId>dd4bf4b2-fd42-0f83-2788-8a352396a880</objectId>
+	<internal-name>Thirosha test 2</internal-name>
+	<navLabel>Thirosha test</navLabel>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>thirosha-test-2</folder-name>
+	<sections_o item-list="true">	<item datasource="sections" inline="true">	<key>6f55e516-3b9f-f04e-4c65-28ed3224e0c3</key>
+	<value>COVID-19 vaccine rollout strategy</value>
+<component id="6f55e516-3b9f-f04e-4c65-28ed3224e0c3">
+	<content-type>/component/component-cardfwlm</content-type>
+	<display-template>/templates/web/components/cardfull-lm-component.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>6f55</objectGroupId>
+	<objectId>6f55e516-3b9f-f04e-4c65-28ed3224e0c3</objectId>
+	<file-name>6f55e516-3b9f-f04e-4c65-28ed3224e0c3.xml</file-name>
+	<internal-name>COVID-19 vaccine rollout strategy</internal-name>
+	<cardFullImageUrl_s>https://retail-tst.momentum.co.za/images/campaigns/coronavirus/2021-mms-vaccine-1-1.jpg</cardFullImageUrl_s>
+	<cardFullTitle_s>COVID-19 vaccine rollout strategy</cardFullTitle_s>
+	<imageAlt_s>Many people baring their upper arms where they have received the COVID-19 vaccination covered by a plaster #vaccination</imageAlt_s>
+	<cardFullImage_s/>
+	<cardFullContent_html>&lt;p&gt;Testing copy&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: rgba(0, 0, 0, 0.87); font-family: 'Whitney SSm A', 'Whitney SSm B', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; font-size: 16px; letter-spacing: 0.5px; background-color: #f9f9f9;"&gt;Members of Momentum Medical Scheme can rest assured that their medical aid will cover the cost of their COVID-19 vaccine.&lt;/span&gt;&lt;/p&gt;</cardFullContent_html>
+	<createdDate>2021-06-22T11:43:13.121Z</createdDate>
+	<createdDate_dt>2021-06-22T11:43:13.121Z</createdDate_dt>
+	<lastModifiedDate>2021-06-23T06:56:43.656Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-23T06:56:43.656Z</lastModifiedDate_dt>
+</component>
+	</item></sections_o>
+	<createdDate>2021-06-22T11:32:57.956Z</createdDate>
+	<createdDate_dt>2021-06-22T11:32:57.956Z</createdDate_dt>
+	<lastModifiedDate>2021-06-23T06:56:32.053Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-23T06:56:32.053Z</lastModifiedDate_dt>
+</page>

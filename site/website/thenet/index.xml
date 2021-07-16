@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/page-generic</content-type>
+	<display-template>/templates/web/pages/generic-page.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>2a04</objectGroupId>
+	<objectId>2a04cb4d-1760-1152-29d3-1161ad30650e</objectId>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<internal-name>Thenet</internal-name>
+	<navLabel>thenet</navLabel>
+	<file-name>index.xml</file-name>
+	<folder-name>thenet</folder-name>
+	<sections_o item-list="true"/>
+	<createdDate>2021-06-11T10:24:54.955Z</createdDate>
+	<createdDate_dt>2021-06-11T10:24:54.955Z</createdDate_dt>
+	<lastModifiedDate>2021-06-11T10:24:54.955Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-11T10:24:54.955Z</lastModifiedDate_dt>
+</page>

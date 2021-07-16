@@ -1,0 +1,2 @@
+(function(){'use strict';tinymce.PluginManager.add("my_button",function(editor,url){function _onAction(){editor.insertContent("<p>Content added from my button.</p>")}
+    editor.ui.registry.addButton('my_button',{text:"My Button",onAction:_onAction})});return{getMetadata:function(){return{name:"My Button example",url:"http://exampleplugindocsurl.com"}}}})()

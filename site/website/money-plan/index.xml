@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/page-moneyplan</content-type>
+	<display-template>/templates/web/pages/money-plan-page.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>9ed8</objectGroupId>
+	<objectId>9ed82cfd-e849-138a-9700-c3f47be38188</objectId>
+	<placeInNav>true</placeInNav>
+	<orderDefault_f>26000</orderDefault_f>
+	<internal-name>Money Plan</internal-name>
+	<navLabel>Money Plan</navLabel>
+	<file-name>index.xml</file-name>
+	<folder-name>money-plan</folder-name>
+	<createdDate>2021-03-31T13:24:08.361Z</createdDate>
+	<createdDate_dt>2021-03-31T13:24:08.361Z</createdDate_dt>
+	<lastModifiedDate>2021-07-01T08:28:50.498Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-07-01T08:28:50.498Z</lastModifiedDate_dt>
+	<title_s>Get smart about your money. Get a Money Plan.</title_s>
+	<imageAlt_s>Young woman and man laughing as the woman looks down at her cell phone.</imageAlt_s>
+	<sections_o item-list="true">	<item datasource="sections" inline="true">	<key>3ef8abd0-f056-865f-526f-8082f6190849</key>
+	<value>Schedule a session</value>
+<component id="3ef8abd0-f056-865f-526f-8082f6190849">
+	<content-type>/component/component-signuplm</content-type>
+	<display-template>/templates/web/components/subscribelm-component.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>3ef8</objectGroupId>
+	<objectId>3ef8abd0-f056-865f-526f-8082f6190849</objectId>
+	<internal-name>Schedule a session</internal-name>
+	<subTitle_s>You’re in good hands</subTitle_s>
+	<title_s>That's the way financial planning should be. Centred on you.</title_s>
+	<label_s>Schedule a session</label_s>
+	<imageAlt_s>A handshake between a financial adviser and his cl</imageAlt_s>
+	<file-name>3ef8abd0-f056-865f-526f-8082f6190849.xml</file-name>
+	<image_s/>
+	<createdDate>2021-04-08T13:06:26.734Z</createdDate>
+	<createdDate_dt>2021-04-08T13:06:26.734Z</createdDate_dt>
+	<lastModifiedDate>2021-05-07T09:34:37.865Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-05-07T09:34:37.865Z</lastModifiedDate_dt>
+	<imageUrl_s>https://d1sdgqff4ryo7u.cloudfront.net/images/money guide-content_section.png</imageUrl_s>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>79b47437-166a-86fd-4531-259e41fb6a4e</key>
+	<value>SUBSCRIPTION FEES</value>
+<component id="79b47437-166a-86fd-4531-259e41fb6a4e">
+	<content-type>/component/component-packages</content-type>
+	<display-template>/templates/web/components/packages-component.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>79b4</objectGroupId>
+	<objectId>79b47437-166a-86fd-4531-259e41fb6a4e</objectId>
+	<colOneList_o item-list="true">	<item>	<colOneItem_s>Budget and cash-flow management 101</colOneItem_s>
+	</item>	<item>	<colOneItem_s>Set up an emergency fund</colOneItem_s>
+	</item>	<item>	<colOneItem_s>Get rid of bad debt</colOneItem_s>
+	</item>	<item>	<colOneItem_s>Access to exclusive content and research</colOneItem_s>
+	</item>	<item>	<colOneItem_s>Access to a personal Relationship Consultant</colOneItem_s>
+	</item>	<item>	<colOneItem_s>Access to community events</colOneItem_s>
+	</item></colOneList_o>
+	<colTwoList_o item-list="true">	<item>	<colTwoItem_s>Budget and cash-flow management 101</colTwoItem_s>
+	</item>	<item>	<colTwoItem_s>Set up an emergency fund</colTwoItem_s>
+	</item>	<item>	<colTwoItem_s>Get rid of bad debt</colTwoItem_s>
+	</item>	<item>	<colTwoItem_s>Access to exclusive content and research</colTwoItem_s>
+	</item>	<item>	<colTwoItem_s>Access to a personal Relationship Consultant</colTwoItem_s>
+	</item>	<item>	<colTwoItem_s>Access to community events</colTwoItem_s>
+	</item>	<item>	<colTwoItem_s>Fiduciary and trust services, creating your Will and Estate planning</colTwoItem_s>
+	</item>	<item>	<colTwoItem_s>Protect your assets</colTwoItem_s>
+	</item>	<item>	<colTwoItem_s>S.M.A.R.T goal setting</colTwoItem_s>
+	</item>	<item>	<colTwoItem_s>Long and short-term goal saving</colTwoItem_s>
+	</item>	<item>	<colTwoItem_s>Saving for retirement</colTwoItem_s>
+	</item>	<item>	<colTwoItem_s>Portfolio management</colTwoItem_s>
+	</item>	<item>	<colTwoItem_s>Tax planning</colTwoItem_s>
+	</item></colTwoList_o>
+	<file-name>79b47437-166a-86fd-4531-259e41fb6a4e.xml</file-name>
+	<internal-name>SUBSCRIPTION FEES</internal-name>
+	<sectionTitle_s>SUBSCRIPTION FEES</sectionTitle_s>
+	<heading_s>Affordable and flexible</heading_s>
+	<label_s>Schedule a session</label_s>
+	<colOneHeading_s>Money guide</colOneHeading_s>
+	<colOneLine1_s>Get financially healthy</colOneLine1_s>
+	<colOneLine2_s>R99/mo x 6 months</colOneLine2_s>
+	<colTwoHeading_s>Money plan</colTwoHeading_s>
+	<colTwoLine1_s>Get financially wealthy</colTwoLine1_s>
+	<colTwoLine2_s>R199/mo x 6 months</colTwoLine2_s>
+	<content_html>&lt;p&gt;What happens after the 6 month subscription? You're all set up, and on your way to getting financially healthy. Future support is free of charge if you&amp;rsquo;re on the Money Plan package.&lt;/p&gt;
+&lt;p&gt;Whatever you choose, you are in full control.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Still struggling to get financially healthy?&lt;/strong&gt; Take another round of the Money Guide to keep access to Velocity Club support.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ready to start working on your financial wealth?&lt;/strong&gt; Take the Money Plan package for in depth financial planning.&lt;/p&gt;</content_html>
+	<createdDate>2021-04-08T12:20:32.100Z</createdDate>
+	<createdDate_dt>2021-04-08T12:20:32.100Z</createdDate_dt>
+	<lastModifiedDate>2021-04-08T12:20:32.100Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-04-08T12:20:32.100Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>86795a8e-bf1a-36f8-4e7f-e52091d1cda4</key>
+	<value>Testimonials</value>
+<component id="86795a8e-bf1a-36f8-4e7f-e52091d1cda4">
+	<content-type>/component/component-testimonials</content-type>
+	<display-template>/templates/web/components/testimonials-component.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>8679</objectGroupId>
+	<objectId>86795a8e-bf1a-36f8-4e7f-e52091d1cda4</objectId>
+	<testimonial_o item-list="true">	<item>	<name_s>P Shandlale</name_s>
+	<position_s>Velocity Club member</position_s>
+	<imageAlt_s/>
+	<image_s/>
+	<content_html>&lt;p&gt;&amp;ldquo;Thank you so much for the VC offering. &lt;strong&gt;It&amp;rsquo;s changed how I think about money and improved my relationship with money&lt;/strong&gt;. It helped in giving me direction. It might seem small, but this is you all enabling me to break a generational curse for which I am so grateful.&amp;rdquo;&lt;/p&gt;</content_html>
+	<image_url_s>https://d1sdgqff4ryo7u.cloudfront.net/images/1-profile-images-tesimonials.jpg</image_url_s>
+	</item>	<item>	<name_s>M Mtshali</name_s>
+	<position_s>Velocity Club member</position_s>
+	<content_html>&lt;p&gt;&amp;ldquo;I&amp;rsquo;m very pleased that Velocity Club is working for me. &lt;strong&gt;Kudos to the team for the brilliant guidance and advice&lt;/strong&gt;. It&amp;rsquo;s absolutely my money&amp;rsquo;s worth.&amp;rdquo;&lt;/p&gt;</content_html>
+	<image_s/>
+	<imageAlt_s/>
+	<image_url_s>https://d1sdgqff4ryo7u.cloudfront.net/images/2-profile-images-tesimonials.jpg</image_url_s>
+	</item></testimonial_o>
+	<file-name>86795a8e-bf1a-36f8-4e7f-e52091d1cda4.xml</file-name>
+	<internal-name>Testimonials</internal-name>
+	<heading_s>But don't just take our word for it. See what our customers are saying.</heading_s>
+	<createdDate>2021-04-09T07:44:18.717Z</createdDate>
+	<createdDate_dt>2021-04-09T07:44:18.717Z</createdDate_dt>
+	<lastModifiedDate>2021-05-07T09:35:46.572Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-05-07T09:35:46.572Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>ed81b5cf-eb86-9abe-64d4-b2f57a0f637b</key>
+	<value>Ready to get started?</value>
+<component id="ed81b5cf-eb86-9abe-64d4-b2f57a0f637b">
+	<content-type>/component/component-sectionwithlm</content-type>
+	<display-template>/templates/web/components/sectionlm-component.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>ed81</objectGroupId>
+	<objectId>ed81b5cf-eb86-9abe-64d4-b2f57a0f637b</objectId>
+	<file-name>ed81b5cf-eb86-9abe-64d4-b2f57a0f637b.xml</file-name>
+	<internal-name>Ready to get started?</internal-name>
+	<sectionTitle_s>Ready to get started?</sectionTitle_s>
+	<sectionHeading_s>No credit card required. No bossy sales agent. No commitment. We know you’re just checking it out.</sectionHeading_s>
+	<label_s>Schedule a chat</label_s>
+	<imageAlt_s>Man holds his cell phone and is about to start with his Velocity Club Financial Checkup.</imageAlt_s>
+	<sectionImage_s/>
+	<sectionContent_html>&lt;ol class="vc-list__numbered"&gt;
+&lt;li&gt;
+&lt;h4 class="title--sm no-margin-bottom"&gt;&lt;strong&gt;Let us know you're interested&lt;/strong&gt;&lt;/h4&gt;
+Leave us your details and we'll call you back.&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 class="title--sm no-margin-bottom"&gt;&lt;strong&gt;Understand where you're at&lt;/strong&gt;&lt;/h4&gt;
+Complete your Financial Check-Up to see if you have any gaps.&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 class="title--sm no-margin-bottom"&gt;&lt;strong&gt;Chat&lt;/strong&gt;&lt;/h4&gt;
+The quickest way to get started is to have a chat with a Relationship Consultant.&lt;/li&gt;
+&lt;/ol&gt;</sectionContent_html>
+	<createdDate>2021-04-08T12:41:57.986Z</createdDate>
+	<createdDate_dt>2021-04-08T12:41:57.986Z</createdDate_dt>
+	<lastModifiedDate>2021-05-07T09:36:52.422Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-05-07T09:36:52.422Z</lastModifiedDate_dt>
+	<sectionImageUrl_s>https://d1sdgqff4ryo7u.cloudfront.net/images/money guide-no credit card_section.png</sectionImageUrl_s>
+</component>
+	</item></sections_o>
+	<content_html>&lt;p&gt;We'll guide you to a future of financial security. Whether you're changing jobs, studying further, or starting a family - we'll help you define your life goals and equip you with the financial advice and knowledge on how to make your goals a reality.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;We ask. We listen. We solve.&lt;/strong&gt;&lt;/p&gt;</content_html>
+	<image_url_s>https://d1sdgqff4ryo7u.cloudfront.net/images/money guide-hero_section.png</image_url_s>
+</page>
