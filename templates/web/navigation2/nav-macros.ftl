@@ -1,9 +1,5 @@
 <#macro renderNavItem navItem>
-  <#if navItem.active>
-    <li class="active"><a href="${navItem.url}">${navItem.label}</a></li>
-  <#else>
-    <li><a href="${navItem.url}">${navItem.label}</a></li>
-  </#if>
+  <li><a href="${navItem.url}">${navItem.label}</a></li>
 </#macro>
 
 <#macro renderRootItem navItem>
